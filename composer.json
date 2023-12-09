@@ -1,0 +1,16 @@
+{
+    "name": "dwijonarko/php-simple-html-dom-parser",
+    "description": "PHP simple html dom parser",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dwijonarko\\PhpSimpleHtmlDomParser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dwijonarko"
+        }
+    ],
+    "require": {}
+}
