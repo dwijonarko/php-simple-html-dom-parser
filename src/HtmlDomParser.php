@@ -1,6 +1,6 @@
 <?php
 
-namespace Bagus\HtmlDomParser;
+namespace Dwijonarko\HtmlDomParser;
 
 class HtmlDomParser
 {
